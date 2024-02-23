@@ -5,7 +5,7 @@
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoassis07&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoassis07&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoassis07&layout=compact)
 
 ### Tecnologias que uso no meu dia
 
