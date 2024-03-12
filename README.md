@@ -1,6 +1,5 @@
 ### Olá eu sou Diego Assis 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego_soares04/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoassis-/)
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoassis07&show_icons=true&theme=tokyonight)
